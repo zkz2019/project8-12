@@ -6,7 +6,7 @@
         icon="github"
       >
         Open source on <a href="https://github.com/buefy/buefy">
-          GitHubbbb
+          GitHub
         </a>
       </card>
 

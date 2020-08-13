@@ -1,4 +1,4 @@
-# maapp
+# myapp
 
 ## Build Setup
 

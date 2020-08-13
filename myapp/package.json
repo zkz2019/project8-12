@@ -1,5 +1,5 @@
 {
-  "name": "maapp",
+  "name": "myapp",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -10,8 +10,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "nuxt": "^2.14.0",
-    "nuxt-buefy": "^0.3.31"
+    "element-ui": "^2.13.2",
+    "nuxt": "^2.14.0"
   },
   "devDependencies": {
     "@vue/test-utils": "^1.0.3",
